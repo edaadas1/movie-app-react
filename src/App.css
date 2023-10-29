@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&display=swap');
+
+
+.header{
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 20px;
+}
+
+.banner-btn{
+  font-family: 'Gemunu Libre', sans-serif;
+  letter-spacing: 10px;
+}
+
 .App {
   text-align: center;
 }
