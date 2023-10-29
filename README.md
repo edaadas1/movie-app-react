@@ -1,3 +1,6 @@
+https://github.com/edaadas1/movie-app-react/assets/86204667/a39da193-985c-40a2-a49b-e531198cc133
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-https://github.com/edaadas1/movie-app-react/assets/86204667/a39da193-985c-40a2-a49b-e531198cc133
+
